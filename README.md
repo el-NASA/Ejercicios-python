@@ -4,8 +4,8 @@ Ejercicios de diversos temas de programación hechos en python3 para la clase de
 Hecho en 2020.
 
 ## Ejercicios hechos:
-* 13.Escribir un programa que calcule el equivalente en pies de una longitud de x metros
-sabiendo que 1 metro equivale a 39.27 pulgadas y 12 pulgadas equivalen a 1 pie.
+* 13.!(Escribir un programa que calcule el equivalente en pies de una longitud de x metros
+sabiendo que 1 metro equivale a 39.27 pulgadas y 12 pulgadas equivalen a 1 pie.)[https://github.com/el-NASA/Ejercicios-python/blob/master/ejer13.py]
 
 
 * 15.Escribir un programa que lea dos números enteros A y B, y obtenga los valores de la
